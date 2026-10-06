@@ -87,18 +87,18 @@ A interface e o fluxo principal do cliente foram desenvolvidos no Figma.
 
 ## Documentação do projeto
 
-Os materiais técnicos serão organizados na pasta `docs`, incluindo:
+A documentação técnica do Comandou está organizada na pasta `docs`.
 
-- Estrutura do banco de dados;
-- Requisitos Funcionais;
-- Requisitos Não Funcionais;
-- Diagrama de Casos de Uso;
-- Diagrama de Classes;
-- Diagramas de Sequência;
-- Fluxograma;
-- Diagrama de Estados;
-- Diagrama de Componentes;
-- Roadmap do MVP.
+- [Estrutura do banco de dados](docs/database/estrutura-banco-dados.md)
+- [Requisitos Funcionais](docs/requirements/requisitos-funcionais.md)
+- [Requisitos Não Funcionais](docs/requirements/requisitos-nao-funcionais.md)
+- [Diagrama de Casos de Uso](docs/diagrams/casos-de-uso.md)
+- [Diagrama de Classes](docs/diagrams/classes.md)
+- [Diagramas de Sequência](docs/diagrams/sequencia.md)
+- [Fluxograma do sistema](docs/diagrams/fluxograma.md)
+- [Diagrama de Estados](docs/diagrams/estados.md)
+- [Diagrama de Componentes](docs/diagrams/componentes.md)
+- [Roadmap do MVP](docs/roadmap/roadmap-mvp.md)
 
 ## Repositório
 
