@@ -2,7 +2,7 @@
 
 Plataforma web para gerenciamento de pedidos e atendimento em estabelecimentos.
 
-**Domínio:** a definir
+**Domínio:** comandou.com.br
 
 ## Visão geral
 
@@ -13,6 +13,20 @@ Pelo tablet disponibilizado no local ou pelo próprio celular, o cliente poderá
 Na área interna, funcionários poderão acompanhar pedidos, chamados e pagamentos, enquanto administradores terão acesso ao gerenciamento do estabelecimento.
 
 Um dos diferenciais do Comandou está na organização individual do consumo dentro de uma mesma mesa. Cada pessoa é identificada temporariamente durante o atendimento, permitindo que os pedidos sejam associados a quem realizou o consumo. No momento do pagamento, a conta poderá ser paga integralmente por uma pessoa, dividida igualmente entre os participantes ou separada de acordo com o consumo individual de cada um. O sistema também permitirá pagamentos via Pix diretamente pela plataforma, com confirmação automática.
+
+## Domínio e subdomínios
+
+O sistema será disponibilizado por meio do domínio principal:
+
+`comandou.com.br`
+
+Cada estabelecimento poderá possuir seu próprio subdomínio dentro da plataforma, permitindo identificar e separar o acesso de cada empresa.
+
+Exemplo:
+
+`confeitaria.comandou.com.br`
+
+Dessa forma, os estabelecimentos utilizarão a mesma plataforma e infraestrutura, mantendo seus dados e configurações vinculados individualmente dentro do Comandou.
 
 ## Funcionamento
 
@@ -76,9 +90,11 @@ A interface e o fluxo principal do cliente foram desenvolvidos no Figma.
 Os materiais técnicos serão organizados na pasta `docs`, incluindo:
 
 - Estrutura do banco de dados;
+- Requisitos Funcionais;
+- Requisitos Não Funcionais;
 - Diagrama de Casos de Uso;
 - Diagrama de Classes;
-- Diagrama de Sequência;
+- Diagramas de Sequência;
 - Fluxograma;
 - Diagrama de Estados;
 - Diagrama de Componentes;
@@ -92,7 +108,7 @@ O repositório do projeto é mantido no GitHub, utilizando Git para o versioname
 
 **Nafitaly Vitória**
 
-Análise e Desenvolvimento de Sistemas — FATEC Araraquara.
+Análise e Desenvolvimento de Sistemas - FATEC Araraquara.
 
 ## Status
 
