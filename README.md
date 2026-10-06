@@ -59,7 +59,7 @@ O projeto será dividido entre:
 
 A interface e o fluxo principal do cliente foram desenvolvidos no Figma.
 
-[Acessar protótipo no Figma](https://www.figma.com/design/JqXHUthiYVKXV4G9iT3Ngy/Untitled?node-id=0-1&t=MGgNXuyp3hqaSGFe-1)
+[Acessar protótipo no Figma](https://www.figma.com/proto/JqXHUthiYVKXV4G9iT3Ngy/Untitled?node-id=1-2&t=V8o4h9yYJ7MiOQ3l-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1)
 
 ## Tecnologias
 
