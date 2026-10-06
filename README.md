@@ -96,6 +96,4 @@ Análise e Desenvolvimento de Sistemas — FATEC Araraquara.
 
 ## Status
 
-## Status
-
 Em fase de planejamento e prototipação.
